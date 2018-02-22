@@ -118,5 +118,13 @@
   .mz-table th {
     text-align: center;
   }
+  .mz-row {
+    .mz-col:nth-child(1){
+      padding: 10px 0;
+    }
+    .mz-col:nth-child(2){
+      padding: 10px 0;
+    }
+  }
 }
 </style>
