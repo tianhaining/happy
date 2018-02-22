@@ -28,7 +28,7 @@ export default {
 
 <style lang="less">
   .home {
-    width: 35rem;
+    width: 40rem;
     margin: 0 auto;
   }
 </style>

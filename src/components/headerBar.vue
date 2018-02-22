@@ -1,18 +1,12 @@
 <template lang="html">
   <header class="header">
-    happy
+    Happy
   </header>
 </template>
-
-<script>
-export default {
-
-}
-</script>
-
 <style lang="less">
 .header {
-    height: 40px;
     background: #f8f6f4;
+    padding: 20px;
+    color: #DAA520;
 }
 </style>
